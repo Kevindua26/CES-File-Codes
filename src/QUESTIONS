@@ -164,3 +164,39 @@ Lab On Java Questions :-
     Q51- Write a java program to demonstrate continue statement.
 
     Q52- Write a java program to demonstrate return statement.
+
+    Q53- Write a java program to define a class named as car specify its attributes and methods also demonstrate creation of its.
+
+    Q54- define a class named as car specify its attributes and methods also demonstrate creation of its.
+
+    Q55- Write a java program to create a class named as circle, create its two objects C1 and C2 and display the area and circumference using methods.
+
+    Q56- Write a java program to demonstrate method pass by value.
+
+    Q57- Write a java program to demonstrate method pass by reference.
+
+    Q58- Write a java program to demonstrate method overloading.
+
+    Q59- Write a java program to add two integer data and string data by using method overloading.
+         Example ("Delhi","Wala")
+         Output :- DelhiWala
+
+    Q60- Write a java program to demonstrate single inheritance.
+
+    Q61- Write a java program to demonstrate multilevel inheritance.
+
+    Q62- Write a java program to demonstrate hierarchical inheritance.
+
+    Q63- Write a java program to demonstrate multiple inheritance with the help of an interface.
+
+    Q64- Write a java program to demonstrate exception handling using try, cath and finally block.
+
+    Q65- Write a java program to demonstrate exception handling using throws keyword.
+
+    Q66- Write a java program to demonstrate exception handling (user defined exception).
+
+    Q67- Write a java program to demonstrate input stream.
+
+    Q68- Write a java program to demonstrate output stream.
+
+    Q69- Write a java program to demonstrate character stream.

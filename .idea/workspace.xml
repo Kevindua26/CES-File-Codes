@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Corrected error in Q42">
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Filename Reflected">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QUESTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUESTIONS" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,27 +32,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN"
+      &quot;state&quot;: &quot;OPEN&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
     {
-      "id": {
-        "id": "PR_kwDOMrQXOM56fMQ1",
-        "number": 1
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOMrQXOM56fMQ1&quot;,
+        &quot;number&quot;: 1
       },
-      "lastSeen": 1725523192559
+      &quot;lastSeen&quot;: 1725523192559
     }
   ]
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Kevindua26/Ces-File-Codes.git&quot;,
@@ -61,26 +70,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Q1.executor": "Run",
-    "Application.Q27.executor": "Run",
-    "Application.Q29.executor": "Run",
-    "Application.Q43.executor": "Run",
-    "Application.Q44.executor": "Run",
-    "Application.Q48.executor": "Run",
-    "Application.Q49.executor": "Run",
-    "Application.Q50.executor": "Run",
-    "Application.Q51.executor": "Run",
-    "Application.Q52.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/IntelliJ IDEA/JAVA/CES File/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q48.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q50.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q51.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q52.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelliJ IDEA/JAVA/CES File/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -290,7 +302,55 @@
       <option name="project" value="LOCAL" />
       <updated>1725483665428</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Corrected convention in Q42">
+      <option name="closed" value="true" />
+      <created>1725523904830</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725523904830</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1725523944076</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725523944076</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updated QUESTIONS">
+      <option name="closed" value="true" />
+      <created>1729974405963</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729974405963</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added Solution of Q53">
+      <option name="closed" value="true" />
+      <created>1730132303274</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730132303274</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Corrected an error in question of Q54">
+      <option name="closed" value="true" />
+      <created>1730132638483</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730132638483</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Filename Reflected">
+      <option name="closed" value="true" />
+      <created>1730538624132</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730538624132</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,9 +378,14 @@
     <MESSAGE value="Q29 modified" />
     <MESSAGE value="Corrected an error in Q43" />
     <MESSAGE value="Corrected error in Q29" />
-    <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Added solution of Q50-Q52" />
     <MESSAGE value="Corrected error in Q42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected error in Q42" />
+    <MESSAGE value="Corrected convention in Q42" />
+    <MESSAGE value="Updated workspace.xml" />
+    <MESSAGE value="Updated QUESTIONS" />
+    <MESSAGE value="Added Solution of Q53" />
+    <MESSAGE value="Corrected an error in question of Q54" />
+    <MESSAGE value="Filename Reflected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Filename Reflected" />
   </component>
 </project>

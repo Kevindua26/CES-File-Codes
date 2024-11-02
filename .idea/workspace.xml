@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Created new solution of Q53">
-      <change afterPath="$PROJECT_DIR$/src/Q54.java" afterDir="false" />
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Added Solution of Q55">
+      <change afterPath="$PROJECT_DIR$/src/Q56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,29 +73,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q29.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q44.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q48.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q49.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q50.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q51.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q52.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IntelliJ IDEA/JAVA/CES File/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Q1.executor": "Run",
+    "Application.Q27.executor": "Run",
+    "Application.Q29.executor": "Run",
+    "Application.Q43.executor": "Run",
+    "Application.Q44.executor": "Run",
+    "Application.Q48.executor": "Run",
+    "Application.Q49.executor": "Run",
+    "Application.Q50.executor": "Run",
+    "Application.Q51.executor": "Run",
+    "Application.Q52.executor": "Run",
+    "Application.Q55.executor": "Run",
+    "Application.Q59.executor": "Run",
+    "Application.Q61.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/IntelliJ IDEA/JAVA/CES File/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -372,7 +388,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730539396954</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Added solution of Q54">
+      <option name="closed" value="true" />
+      <created>1730540168428</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1730540168428</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Updated solution of Q54">
+      <option name="closed" value="true" />
+      <created>1730540211974</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1730540211974</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1730540271203</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730540271203</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added Solution of Q55">
+      <option name="closed" value="true" />
+      <created>1730541603516</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1730541603516</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +436,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added Questions File" />
     <MESSAGE value="Added tab space in Questions File" />
     <MESSAGE value="Deleted Default file, Added Ces File.iml" />
     <MESSAGE value="Added solution of Q38-Q47" />
@@ -408,9 +455,12 @@
     <MESSAGE value="Corrected an error in question of Q54" />
     <MESSAGE value="Filename Reflected" />
     <MESSAGE value="Corrected Format" />
-    <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Updated uiDesigner.xml" />
     <MESSAGE value="Created new solution of Q53" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new solution of Q53" />
+    <MESSAGE value="Added solution of Q54" />
+    <MESSAGE value="Updated solution of Q54" />
+    <MESSAGE value="Updated workspace.xml" />
+    <MESSAGE value="Added Solution of Q55" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Solution of Q55" />
   </component>
 </project>

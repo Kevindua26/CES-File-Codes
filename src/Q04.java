@@ -1,4 +1,4 @@
-public class Q4 {
+public class Q04 {
     //Write a java program to create a table of a number.
     public static void main(String[] args) {
         int a = 5;

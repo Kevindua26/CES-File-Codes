@@ -1,4 +1,4 @@
-public class Q8 {
+public class Q08 {
     //Write a java program to store your mobile number and print the same.
     public static void main(String[] args) {
         Long mobile = Long.parseLong(args[0]);

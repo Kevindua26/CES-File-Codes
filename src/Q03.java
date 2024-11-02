@@ -1,4 +1,4 @@
-public class Q3 {
+public class Q03 {
     //Write a java program to add, subtract, multiply and divide 2 numbers.
     public static void main(String[] args) {
         int a = 10;

@@ -1,4 +1,4 @@
-public class Q5 {
+public class Q05 {
     //Write a java program to demonstrate all primitive data types.
 
     public static void main(String[] args) {

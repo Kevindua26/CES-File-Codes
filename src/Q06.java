@@ -9,7 +9,7 @@
 */
 
 //Write a java program to demonstrate constant variables.
-public class Q6 {
+public class Q06 {
     public static final int Max_Value = 100;
     public static void main(String[] args) {
         System.out.println("The final maximum value is: " + Max_Value);

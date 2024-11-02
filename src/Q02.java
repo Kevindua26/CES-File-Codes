@@ -1,4 +1,4 @@
-public class Q2 {
+public class Q02 {
     //Write a java program to add 2 numbers.
     public static void main(String[] args) {
         int a = 10; 

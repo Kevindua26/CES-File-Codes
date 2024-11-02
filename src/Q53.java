@@ -1,6 +1,21 @@
-package Q53;
+class Car {
+    // Attributes
+    String color;
+    int year;
 
-public class CarMain {
+    // Constructor
+    public Car(String c, int y) {
+        color = c;
+        year = y;
+    }
+
+    // Method
+    public void start() {
+        System.out.println("The car is starting.");
+    }
+}
+
+public class Q53 {
     public static void main(String[] args) {
         // Creating objects
         Car car1 = new Car("Red", 2022);

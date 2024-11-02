@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Added Solution of Q55">
-      <change afterPath="$PROJECT_DIR$/src/Q56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q68.java" afterDir="false" />
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Added Jai-Baba-Nripesh Codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +83,8 @@
     "onboarding.tips.debug.path": "D:/IntelliJ IDEA/JAVA/CES File/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,46 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725192990064</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Added Questions File">
-      <option name="closed" value="true" />
-      <created>1725194932243</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1725194932243</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added Questions File">
-      <option name="closed" value="true" />
-      <created>1725195171021</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1725195171021</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added tab space in Questions File">
-      <option name="closed" value="true" />
-      <created>1725195537467</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1725195537467</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added tab space in Questions File">
-      <option name="closed" value="true" />
-      <created>1725195620083</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1725195620083</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Deleted Default file, Added Ces File.iml">
-      <option name="closed" value="true" />
-      <created>1725195948563</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1725195948563</updated>
     </task>
     <task id="LOCAL-00006" summary="Added solution of Q38-Q47">
       <option name="closed" value="true" />
@@ -420,7 +368,127 @@
       <option name="project" value="LOCAL" />
       <updated>1730541603516</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added Solution of Q56">
+      <option name="closed" value="true" />
+      <created>1730543650662</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543650662</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added Solution of Q57">
+      <option name="closed" value="true" />
+      <created>1730543659140</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543659140</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added Solution of Q58">
+      <option name="closed" value="true" />
+      <created>1730543667243</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543667243</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added Solution of Q59">
+      <option name="closed" value="true" />
+      <created>1730543675224</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543675224</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added Solution of Q60">
+      <option name="closed" value="true" />
+      <created>1730543684902</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543684902</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added Solution of Q61">
+      <option name="closed" value="true" />
+      <created>1730543693487</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543693487</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added Solution of Q62">
+      <option name="closed" value="true" />
+      <created>1730543699972</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543699972</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added Solution of Q63">
+      <option name="closed" value="true" />
+      <created>1730543705934</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543705934</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added Solution of Q64">
+      <option name="closed" value="true" />
+      <created>1730543712070</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543712070</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added Solution of Q65">
+      <option name="closed" value="true" />
+      <created>1730543716921</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543716921</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added Solution of Q66">
+      <option name="closed" value="true" />
+      <created>1730543726087</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543726087</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added Solution of Q67">
+      <option name="closed" value="true" />
+      <created>1730543733124</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543733124</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added Solution of Q68">
+      <option name="closed" value="true" />
+      <created>1730543739734</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543739734</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added Solution of Q69">
+      <option name="closed" value="true" />
+      <created>1730543767403</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543767403</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1730543789512</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1730543789512</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,20 +504,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added tab space in Questions File" />
-    <MESSAGE value="Deleted Default file, Added Ces File.iml" />
-    <MESSAGE value="Added solution of Q38-Q47" />
-    <MESSAGE value="Updated workspacce.xml" />
-    <MESSAGE value="Added solution of Q48" />
-    <MESSAGE value="Added solution of Q28-Q37" />
-    <MESSAGE value="Q48 modified" />
-    <MESSAGE value="Added solution of Q49" />
-    <MESSAGE value="Q29 modified" />
-    <MESSAGE value="Corrected an error in Q43" />
-    <MESSAGE value="Corrected error in Q29" />
-    <MESSAGE value="Added solution of Q50-Q52" />
-    <MESSAGE value="Corrected error in Q42" />
-    <MESSAGE value="Corrected convention in Q42" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Jai-Baba-Nripesh" />
+    </ignored-roots>
     <MESSAGE value="Updated QUESTIONS" />
     <MESSAGE value="Added Solution of Q53" />
     <MESSAGE value="Corrected an error in question of Q54" />
@@ -459,8 +516,22 @@
     <MESSAGE value="Created new solution of Q53" />
     <MESSAGE value="Added solution of Q54" />
     <MESSAGE value="Updated solution of Q54" />
-    <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Added Solution of Q55" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Solution of Q55" />
+    <MESSAGE value="Added Solution of Q56" />
+    <MESSAGE value="Added Solution of Q57" />
+    <MESSAGE value="Added Solution of Q58" />
+    <MESSAGE value="Added Solution of Q59" />
+    <MESSAGE value="Added Solution of Q60" />
+    <MESSAGE value="Added Solution of Q61" />
+    <MESSAGE value="Added Solution of Q62" />
+    <MESSAGE value="Added Solution of Q63" />
+    <MESSAGE value="Added Solution of Q64" />
+    <MESSAGE value="Added Solution of Q65" />
+    <MESSAGE value="Added Solution of Q66" />
+    <MESSAGE value="Added Solution of Q67" />
+    <MESSAGE value="Added Solution of Q68" />
+    <MESSAGE value="Added Solution of Q69" />
+    <MESSAGE value="Updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
   </component>
 </project>

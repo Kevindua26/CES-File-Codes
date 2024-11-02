@@ -16,6 +16,7 @@ class Car {
 }
 
 public class Q53 {
+    //Write a java program to define a class named as car specify its attributes and methods also demonstrate creation of its.
     public static void main(String[] args) {
         // Creating objects
         Car car1 = new Car("Red", 2022);

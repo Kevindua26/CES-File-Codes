@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Added Jai-Baba-Nripesh Codes">
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Updated Solution of Q68">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q68.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,7 @@
     "Application.Q55.executor": "Run",
     "Application.Q59.executor": "Run",
     "Application.Q61.executor": "Run",
+    "Application.Q67.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -95,38 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725192990064</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added solution of Q38-Q47">
-      <option name="closed" value="true" />
-      <created>1725224166568</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1725224166568</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Updated workspacce.xml">
-      <option name="closed" value="true" />
-      <created>1725224248749</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1725224248749</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added solution of Q48">
-      <option name="closed" value="true" />
-      <created>1725310773141</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1725310773141</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Updated workspace.xml">
-      <option name="closed" value="true" />
-      <created>1725310807376</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1725310807376</updated>
     </task>
     <task id="LOCAL-00010" summary="Added solution of Q28-Q37">
       <option name="closed" value="true" />
@@ -488,7 +458,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730543789512</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added Java Program Codes File">
+      <option name="closed" value="true" />
+      <created>1730544622783</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1730544622783</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1730544654494</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1730544654494</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Added Input &amp; Output Extreme Files">
+      <option name="closed" value="true" />
+      <created>1730567670804</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1730567670804</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Updated Solution of Q68">
+      <option name="closed" value="true" />
+      <created>1730567696615</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1730567696615</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,9 +509,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Jai-Baba-Nripesh" />
     </ignored-roots>
-    <MESSAGE value="Updated QUESTIONS" />
-    <MESSAGE value="Added Solution of Q53" />
-    <MESSAGE value="Corrected an error in question of Q54" />
     <MESSAGE value="Filename Reflected" />
     <MESSAGE value="Corrected Format" />
     <MESSAGE value="Updated uiDesigner.xml" />
@@ -531,7 +530,10 @@
     <MESSAGE value="Added Solution of Q67" />
     <MESSAGE value="Added Solution of Q68" />
     <MESSAGE value="Added Solution of Q69" />
+    <MESSAGE value="Added Java Program Codes File" />
     <MESSAGE value="Updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
+    <MESSAGE value="Added Input &amp; Output Extreme Files" />
+    <MESSAGE value="Updated Solution of Q68" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Solution of Q68" />
   </component>
 </project>

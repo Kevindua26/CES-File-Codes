@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Filename Reflected">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QUESTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/QUESTIONS" afterDir="false" />
+    <list default="true" id="d3a790b5-9ce9-4606-837a-f460c3127db5" name="Changes" comment="Created new solution of Q53">
+      <change afterPath="$PROJECT_DIR$/src/Q54.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +340,39 @@
       <option name="project" value="LOCAL" />
       <updated>1730538624132</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Corrected Format">
+      <option name="closed" value="true" />
+      <created>1730538677343</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730538677343</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1730538697654</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730538697654</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Updated uiDesigner.xml">
+      <option name="closed" value="true" />
+      <created>1730538766847</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1730538766847</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Created new solution of Q53">
+      <option name="closed" value="true" />
+      <created>1730539396954</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1730539396954</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,11 +403,14 @@
     <MESSAGE value="Added solution of Q50-Q52" />
     <MESSAGE value="Corrected error in Q42" />
     <MESSAGE value="Corrected convention in Q42" />
-    <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Updated QUESTIONS" />
     <MESSAGE value="Added Solution of Q53" />
     <MESSAGE value="Corrected an error in question of Q54" />
     <MESSAGE value="Filename Reflected" />
-    <option name="LAST_COMMIT_MESSAGE" value="Filename Reflected" />
+    <MESSAGE value="Corrected Format" />
+    <MESSAGE value="Updated workspace.xml" />
+    <MESSAGE value="Updated uiDesigner.xml" />
+    <MESSAGE value="Created new solution of Q53" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new solution of Q53" />
   </component>
 </project>

@@ -11,7 +11,7 @@ public class Q68 {
             outputStream = new FileOutputStream("output.txt");
 
             // Sample text to write to the file
-            String sampleText = "Hello, this is a sample text written to the file.\n" + "This file is used for demonstrating OutputStream in Java.\n" + "We found Fule Handling is Easy in Java.\n";
+            String sampleText = "Hello there, I am Kaivalaya Dua of BCA 2nd Year.\nCurrently I am in my 3rd semester and...\nI am loving the java programming subject the most";
 
             // Convert the string to bytes
             byte[] data = sampleText.getBytes();
